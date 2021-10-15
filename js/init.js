@@ -550,7 +550,7 @@ function arlo_tm_animate_text() {
 	var animateSpan = jQuery('.arlo_tm_animation_text_word');
 
 	animateSpan.typed({
-		strings: ["Front-end Web Developer", "WordPress Expertise", "Freelancer"],
+		strings: ["Front-end Developer", "WordPress Expert"],
 		loop: true,
 		startDelay: 1e3,
 		backDelay: 2e3
